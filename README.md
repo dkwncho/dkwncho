@@ -22,7 +22,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </p>
-<h3>Where to find me</h3>
+<h3>Contact me</h3>
   <a href="https://www.linkedin.com/in/derek-w-cho/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" />
   </a>
