@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Derek</h1>
 
 
-<p>Currently studying Mathematics and Computer Science at the University of Pennsylvania.</p>
+<p>Currently studying Computer Science, Finance, and Statistics at the University of Pennsylvania.</p>
 <h3>Programming Languages</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
